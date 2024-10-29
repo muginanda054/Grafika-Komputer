@@ -4,7 +4,7 @@ Sebelum menjalankan program, install pygame terlebih dahulu dengan menggunakan p
 Kemudian untuk menjalankan program, tulis perintah berikut pada terminal
 "python [namafile].py"
 
-aplikasi akan terbuka
+aplikasi akan terbuka,
 untuk memberikan input dilakukan pada terminal dengan mengisi nilai
 x1
 y1
